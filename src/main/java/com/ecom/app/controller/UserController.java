@@ -14,22 +14,6 @@ import java.util.List;
 @RequiredArgsConstructor
 @RequestMapping("/api/users")
 public class UserController {
-/*
-this is i am doing for testing the pshed line remove and pushing the codes into git hub
-rgns
-sfrgeg
-rgwgges
-ge
-ge
-ge
-ge
-g
-e
-
-g
-e
-
- */
 
     private final UserService userService;
 
