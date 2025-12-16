@@ -11,6 +11,7 @@ spring:
     name: ecom-application
   datasource:
     url: jdbc:postgresql://localhost:5432/naveen
+ #   url: jdbc:postgresql://mypg:5432/naveen
     username: naveen
     password: naveen
     hikari:
